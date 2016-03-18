@@ -14,3 +14,7 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 trivial change
 
 One More change to test
+Editing repository to fire a build
+let me check if it works this time
+1..2...3..
+Ready
